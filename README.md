@@ -1,5 +1,6 @@
 # Database26
 데이터 베이스 학습용 (mysql)
+1
 
 mysql 설치를 진행한다.
 [http://dev.mysql.com/downloads/mysql](https://dev.mysql.com/downloads/mysql/8.4.html) * (LTS 버전을 선택한다.)
